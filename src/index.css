@@ -1,9 +1,12 @@
 @import "tailwindcss";
 
+/* Hide scrollbar for all browsers */
 body {
-  font-family: sans-serif;
-  background-color: rgb(224, 225, 228);
+  overflow: hidden;
 }
+
+
+
 .background {
   background-color: rgb(204, 208, 224);
 }
